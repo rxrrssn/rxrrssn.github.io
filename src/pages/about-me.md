@@ -8,79 +8,102 @@ image:
   alt: "Photo of Travis Hornbuckle for the blog"
 ---
 
-Hi, I’m Travis James — part **creative powerhouse**, part spreadsheet sorcerer, and 100% chaos with a cause. I’m the kind of person who can build a **brand strategy** in the morning, troubleshoot your **WordPress** theme at lunch, and have a philosophical debate about **psychology** by dinner — all while planning my next road trip with my demon dog, Captain, riding shotgun. **I thrive at the intersection of structure and spontaneity**, where big ideas meet bullet points, and I never met a project I couldn’t turn into something extraordinary (or at least wildly efficient).
+I started developing my first commercial projects as a web developer in 2017. Although I've been passionate about technology for as long as I can remember. I discovered the internet at age 6, and along with it, I learned to use **Paint** 🎨 and play **Pinball** on a **Windows XP** computer that my cousins had. Years passed, and I discovered there was a cyber café near my house, so accompanied by my older brother, I spent a lot of time there, watching others play **Age of Empires** ⚔️. When I could, I also played on the computers and investigated how those games worked. But above all, I remember that while sitting there, I watched the owner, Alfredo, the good <a href="https://fred.cpp.mx/" target="_blank" rel="noopener noreferrer">Fred</a>, while he programmed and modeled game maps, or at least that's what I remember. That made me want to try doing the same. I found it incredible how so many things happened on his screen that, although I couldn't understand them, looked amazing. Without a doubt, he was my first influence to get into programming.
 
-I’m a big believer in balance — work hard, play harder, and laugh hardest. Whether I’m wrangling workflows, deep diving into behavior theory, or renovating an RV with zero prior experience and a YouTube tutorial, **I do it with heart, humor, and high standards.** I don’t just show up — I arrive. My vibe? **Bold but grounded.** Tech-savvy but people-first. A little sparkle, a little sass, and a whole lot of get-it-done energy. Stick around — it only gets more fun from here.
+When we got our first computer at home, around 2011, I spent all my time there, creating my own texture packs to integrate them into one of the games I played the most: **GTA SA**. For this, I learned to use **GIMP** and later **Photoshop**. I wanted to go further and started creating scenarios for the game, so that's when I learned 3D modeling. By then, I was already 12 years old, and I remember I had the intention of dedicating myself to creating video games 🎮. A couple of years later, knowing that programming is needed to create video games, I researched a bit and created my first website with **HTML 4** and **CSS3**. It was a static page, clearly not responsive, and its design and content were very poor, but I felt very proud seeing my page working online.
 
-## My Beginnings 👶
+## My Beginnings in Programming 🖥️
 
-I was born with curiosity in my DNA and a natural knack for leadership and creativity. Growing up, I always found myself stepping into roles where I could bring people together, solve problems, or spark ideas — whether that was in the classroom, school clubs, or community activities. In high school, I was deep into marching band and proud to be part of the Florida Bandmasters Association. I challenged myself with all honors classes and participated in AVID, fueling my drive to learn and push beyond the expected. I graduated with a solid 3.52 GPA, a testament to my dedication and work ethic. These experiences laid the foundation for my passion to learn, adapt, and create — an energy that followed me through graduation and beyond.
+In 2014, I entered high school and decided to take the Programming Technician career. In the first semester, as an integral project, I knew I wanted to make a video game, so I committed to doing it. I learned to use **Unity**, delved deeper into **Blender**, and a bit into **C#**. It was an arduous process, as no one on my team knew how to program, but with their help, we all learned a bit more and managed to complete the project. We delivered a functional demo of a character in a scenario in our 3D _survival_ type game. It was at that moment that I discovered that making a video game is not easy at all and understood the magnitude of knowledge, time, and dedication needed.
 
-I didn’t jump straight into college but dove headfirst into the workforce, letting real-world experience be my classroom. And honestly? That choice taught me more about people, systems, and hustle than any textbook ever could.
+I felt good about having achieved that small project, but gradually I fell more in love with web design and development. So, I started learning more about **HTML**, **CSS**, and **JavaScript**. I spent all my free time watching courses and practicing on fictional sites that I designed.
 
-## My Work Experiences 💼
+## The World of Robotics 🤖
 
-I’ve had a wildly diverse career path, from managing tactical laser tag battles to guiding students in higher education. My journey started as a Manager at Laser Tactics, where I balanced customer service with operational logistics and event planning. Then came roles at Best Buy and Apple, where I leveled up my tech knowledge, helping people solve problems, choose the right devices, and understand their tools better. At Apple, I served as both a Product and Technical Specialist, blending product expertise with problem-solving finesse.
+In high school, a teacher and good friend, **Esteban Ángeles**, recruited me to belong to the school's robotics team, which competed in <a href="https://www.vexrobotics.com.mx/" target="_blank" rel="noopener noreferrer">VEX Robotics</a> tournaments. He saw me while I was designing a "3D spider robot" in **Autodesk Inventor**, so I was able to integrate more friends into the team. One of them was <a href="https://github.com/erikestr" target="_blank" rel="noopener noreferrer">Erik Alejandro Estrada Sauza</a>, someone with the same drive and curiosity as me. I was the robot designer, and he programmed it. Along with the rest of the team, we built it. It was a very fun experience full of learning.
 
-As a Department Supervisor at The Villages Golf Cars, I led the delivery team and optimized fulfillment processes. From there, I joined Universal Parks & Resorts as a Special Services Team Lead, managing guest relations and providing phone-based support during high-volume seasons. At Disney World, I was an Attractions Host, where I made the magic happen for guests every day. My leadership continued to grow at Target, where I served as an Assets Protection Team Leader (APTL) — and later at Nike, where I worked as an Athlete Services Coach and trainer. Most recently, I’ve brought it all together in higher ed as a Program Associate at Salt Lake Community College, where I support students on their academic journey.
+In 2015, thanks to teacher Esteban, I was invited to take an **Autodesk Inventor** course for a week in another city, offered directly by **Autodesk**. At that time, the need arose in the team to get a 3D printer to further improve the functioning of our robot, so we started researching and trying to manufacture our own 3D printer. During that process, we discovered **Kickstarter** and ventured to try to publish a 3D printing project.
 
-## My Educational Journey 🎓
+## Exploring Crowdfunding 💡
 
-After gaining years of valuable real-world experience, I returned to school and graduated from Colorado Technical University with Highest Honors, earning my Associate of Science in Business Administration and a 3.82 GPA. My passion for learning didn’t stop there — I’m now pursuing a Bachelor of Science in Psychology, where I plan to combine my real-world insights with academic training to better understand behavior, motivation, and human development.
+We discovered that in Mexico there was **_Fondeadora_**, a platform similar to Kickstarter. Coincidentally, both platforms were about to merge and, as we had a draft project on Kickstarter, we were invited to the merger event between Fondeadora and Kickstarter. Additionally, we participated in the _<a href="https://www.kickstarter.com/projects/willburgm/100-kickstarter-dreams-the-voice-of-100-creators#react-campaign" target="_blank" rel="noopener noreferrer">Make/100 Kickstarter Dreams - The Voice of 100 Creators</a>_ project, an e-book with a compilation of 100 creators sharing their experience and knowledge gained in their campaigns. There I appeared representing my team as one of the 100 creators.
 
-Education for me is not just about credentials — it’s about curiosity, empowerment, and making an impact. My journey proves it’s never too late to learn something new, shift directions, or level up your goals.
+## My First Steps in TEDx Events 🎤
 
-## Professional Certifications 📜
+I was approximately 14 years old when I discovered **TED** talks. I instantly became a fan and, since then, I wanted to attend a TED event, give a talk, or even be part of the organizing team. In 2018, I met a good friend, <a href="https://www.ted.com/profiles/7487162/" target="_blank" rel="noopener noreferrer">Octavio Rojas Xicali</a>, who gave me the opportunity to participate in my first **TEDx** event. I helped with the development of the event's website and with other organizational tasks. It was an incredible experience that consolidated my love for TED and my desire to contribute to spreading ideas.
 
-I’m a Microsoft Office Expert certified in Word, Excel, PowerPoint, Outlook, SharePoint, and Access, with a sharp edge in digital productivity. I’m also an Adobe Certified Professional with experience in Photoshop and Dreamweaver, blending creativity and design with functional usability.
+Thanks to the people I met in that TEDx experience, I got some of my first clients, some of whom continue working with me to this day. Since then, I've dedicated myself to web development, while also carrying out small projects and organizing events.
 
-In addition, I have deep experience using WordPress and other content management systems, making me a versatile asset in any project that combines digital design, strategy, and communication.
+## We Organize Events 🚀
 
-## Recognition and Distinctions 🏅
+Between 2018 and 2019, I had the fortune to be a sponsor and collaborate in organizing:
 
-- Served on Target’s Pride+ Business Council, an employee resource group dedicated to LGBTQIA+ advocacy and support
-- Created reporting tools for field leaders with Target’s EDABI (Enterprise Data Analytics and Business Insights) team
-- Honored as Team Member of the Month at Universal Orlando Resort
-- Trained dozens of team members as a trainer at Nike and Target, elevating onboarding, culture, and performance
-- Consistently recognized for leadership, creativity, and community-building throughout my professional career
+- **<a href="https://www.ted.com/tedx/events/25335" target="_blank" rel="noopener noreferrer">TEDxPalmitas Transform Your Walls</a>** | 2018
+- **<a href="https://nights.talent-network.org/ediciones-anteriores/#" target="_blank" rel="noopener noreferrer">Talent Nights Hidalgo, Second Edition</a>** | 2018
+- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Startup Weekend Pachuca Social Innovation</a>** | 2018
+- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Techstars Global Startup Weekend Sustainable Revolution Pachuca</a>** | 2019
+- **<a href="https://www.ted.com/tedx/events/34332" target="_blank" rel="noopener noreferrer">TEDxPalmitas Winds of Change</a>** | 2019
 
-## Projects I've worked on 🧩
+## Creating Impact with Technology 🌍
 
-- Led the rollout and adoption of the Shortage Action Plan (SAP) app at Target, a key tool designed to reduce product shortages and improve store operations through better inventory management and reporting.
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/6MlhVoqGWlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
-- Managed the deployment and content for TeamDynamix at Salt Lake Community College, streamlining service management and improving internal communication as a dedicated Content Manager.
+In 2020, with the COVID-19 pandemic, I observed the need in some local medical centers and decided, along with a group of friends including <a href="https://www.linkedin.com/in/mmayradiga/"  target="_blank" rel="noopener noreferrer">Mayra Diaz</a>, to contribute our grain of sand by printing and donating 3D face shields. Little by little, the project grew and more people joined. Thus was born <a href="https://sdgactionawards.org/homemakersmexico/"  target="_blank" rel="noopener noreferrer">Hope Makers México</a>.
 
-- Designed and maintained the Laser Tactics website, enhancing online bookings and brand presence for a tactical laser tag company.
+In 2021, together with another great friend, Guillermo Mora, we created <a href="https://devs.tizayocan.com/"  target="_blank" rel="noopener noreferrer">Devs_Tiza</a>, a community for developers, designers, and technology enthusiasts. Our goal is to organize events, workshops, and mentoring to strengthen the local technology ecosystem.
 
-- Developed the website for the Lecanto High School National Honor Society chapter, supporting member engagement and event coordination.
+## Sharing Knowledge 🧠
 
-- Created the online presence and branding for Frozen Cravingz, a local frozen yogurt shop, focusing on vibrant design and user-friendly navigation.
+I've always liked **sharing my knowledge**. I often give small courses or mentoring to friends, students, or companies. When questions arise from them is when I learn the most, because sometimes these questions may seem simple and the answers are something we take for granted, but perhaps we don't fully understand why it is so. This pushes us to:
 
+- Deepen our understanding of concepts
+- Understand them better
+- Transform them into something that can be taught clearly and practically
 
-## Hobbies 🚀
+> Grounding knowledge is, for me, the bridge between knowing and teaching.
 
-When I’m not hustling through work or hitting the books, I’m diving headfirst into everything that makes life interesting. My hobbies aren’t just ways to pass the time — they’re the fuel that keeps my curiosity blazing and my energy unstoppable. From hands-on projects to wild adventures with my four-legged sidekick, these passions shape who I am and keep me charging full speed ahead.
+### Programming Mentoring 💻
 
-### Unconventional Learning 🧠
+From 2021 to the present, I have closely guided more than 15 high school students in the programming career. Taking into account that they are starting their education, when they reach the point of understanding how web pages are made, they begin with the most basic:
 
-Listen, I don’t do boring. My education happens in the trenches — like when I’m elbow-deep in RV renovation, turning a rusty old beast into a rolling masterpiece. I’m talking wiring, carpentry, and duct tape wizardry that would make a handyman jealous. Camping? That’s my “school of survival” where I master patience, problem-solving, and the fine art of not losing my sanity when the weather throws a tantrum.
+1. HTML
+2. CSS
+3. JavaScript (fundamentals)
 
-Tech is my playground — I’m constantly hacking away at WordPress, taming CMS beasts, and geeking out over the latest software that helps me work smarter, not harder. Toss in a heavy dose of psychology research and a curiosity that won’t quit, and you’ve got someone who’s always learning, always growing, and never afraid to get their hands dirty. Because real growth? It’s messy, unpredictable, and totally worth it.
+I have tried to teach them this in the way I would have liked to learn it at the time, obtaining excellent results, as concepts that weren't clear to them in school could be understood and applied following this different approach.
 
-### Things I Enjoy 🎉
+### Educational Content on YouTube 📹
 
-When I’m not being a professional problem solver, I’m out chasing adventure and soaking up life like it’s a fine cocktail. I’ve hit up the Bahamas and Mexico so many times I’m practically a VIP—fluent in beach vibes and tequila shots. I’ve also racked up road trip miles across 20 states, collecting stories and souvenirs (mostly snacks).
+Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@efeeledev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
 
-And then there’s Captain — my four-legged hellhound who’s part Border Collie, part mischief, and 100% my partner in crime. He keeps me on my toes, tests my patience, and somehow manages to be adorable enough to get away with it all. Whether I’m under the stars camping, snapping photos, or just kicking back with friends, I’m all about living big, laughing loud, and loving every minute of the ride.
+In 2024, I recorded some <a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">FrontEndMentor</a> challenges with better quality and published them on my channel. Currently, I share these resources with people I know who are interested in the topic and want to learn by watching how it's put into practice.
 
-## Plans for the Future 🔮
+Although there are few videos, I really enjoyed the process. Due to time limitations, I haven't been able to record more, as they require a lot of dedication, but I'm sure that **I'll soon be publishing new content**.
 
-Looking ahead, I’m deeply committed to continuing my education and personal growth. My current focus is on completing my Bachelor of Science in Psychology, but I’m already setting my sights higher — aiming to pursue a PhD or PsyD in psychology with a specialization in developmental or educational psychology. I’m fascinated by how people learn, grow, and overcome challenges throughout their lives, and I want to be at the forefront of creating supportive environments that foster success and well-being.
+### Some of My Videos 🎬
 
-Beyond academics, I see myself bridging my passion for psychology, technology, and design to develop innovative tools and programs that empower students, educators, and professionals. Whether it’s through building digital platforms for learning, mentoring others, or leading initiatives that promote equity and inclusion, I want my work to create real impact. Ultimately, I aspire to be a catalyst for positive change — helping people unlock their potential, navigate life’s complexities, and find purpose in both personal and professional spheres.
+Here I share some of those videos I've created to help others learn web development. Each one addresses different challenges and techniques that can be useful for those who are starting in the frontend world.
 
+<div className="grid grid-cols-2 grid-rows-1 gap-4">
+    <a href="https://www.youtube.com/watch?v=3c_I0z7zWA4" target="_blank" class="w-full aspect-video  rounded-lg overflow-hidden"> <img src="https://i.ytimg.com/vi/3c_I0z7zWA4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlyIf_1XClnSkZvhjsDHVO1fNpdw"> </a>
+     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/1q7YTgCgYEM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADBY3y6quLEnjFya4a1Goo6h5_2w"></img></a>
+    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/PYMEWsxiu5A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS2t0vxEufiWoxqwRRq8qIxRvICw"></img></a>
+    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/vbefk8HFEzc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaxgQ4OBeCsn-KMbJXaZK_wJh9GQ"></img></a>
+</div>
 
+## What's Next... 🚀
 
-I'm **Travis James Hornbuckle**, and I thank you for reading this.
+In 2023, **Proyecto Tizayocan** was born, an initiative that seeks to apply technology to improve education, urban management, and connectivity in the municipality. This project is still in development, and we are gathering more collaborators to continue advancing.
+
+At the end of 2024, after years working in the city council as **_Software Development Coordinator_**, and seeing the technological deficiencies of some municipalities, **StellarGov** emerges, a web components framework with Tailwind to help developers of small governments create fast and quality websites.
+
+## A Bit More About Me ☕
+
+Today, in 2025, I continue working as **_Software Development Coordinator_** in my municipality, collaborating with my usual clients and launching projects. I love creating things, experimenting with new ideas, and organizing events. I live with the _maker_ spirit: learning, experimenting, and sometimes causing a bit of chaos. But well, everything is forgiven if there's music and coffee involved. ☕🎶
+
+Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the day or for a creative session, I have the perfect recipe. I'm also pretty good at board games, so if you ever need a partner for a game night, I'm your person! 🎲
+
+I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
 
 ## Let's Create Amazing Things! 🚀 

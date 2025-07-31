@@ -1,8 +1,8 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import Hero from "../../../components/courses/Hero.astro";
-import Tags from "../../../components/courses/Tags.astro";
-import ListCourses from "../../../components/courses/ListCourses.astro";
+import Hero from "../../../components/blog/Hero.astro";
+import Tags from "../../../components/blog/Tags.astro";
+import ListCourses from "../../../components/blog/ListCourses.astro";
 const pageTitle = "Courses | Travis James";
 const description = "Courses that Travis James has taken, including in progress, future, and completed courses. This page is a collection of all courses taken by Travis James, including those in progress, future, and completed.";
 const ogimage = {
@@ -14,7 +14,7 @@ const tweetText = encodeURIComponent(`"${pageTitle}"`);
 import Heading from "../../../components/ui/Heading.astro";
 import Share from "../../../components/ui/Share.astro";
 
-import institutions from "../../../components/courses/Institutions.astro";
+import Institutions from "../../../components/blog/Institutions.astro";
 ---
 
 <Layout pageTitle={pageTitle} description={description} ogimage={ogimage}>
@@ -40,8 +40,8 @@ import institutions from "../../../components/courses/Institutions.astro";
           class="bg-white dark:bg-transparent w-full mt-8 rounded-2xl dark:border-0 border border-neutral-100 top-14 px-6 pt-8 pb-12"
         >
           <div class="flex flex-col gap-4 pl-0">
-            <Heading textGradient="institutions" level={2} />
-            <institutions level={2} />
+            <Heading textGradient="Institutions" level={2} />
+            <Institutions level={2} />
           </div>
         </div>
         <div class="my-8 flex justify-end">

@@ -1,17 +1,17 @@
 ---
-layout: /src/layouts/CourseLayout.astro
-title: High School - Freshman English (LHS0001)
+layout: /src/layouts/MarkdownPostLayout.astro
+title: Accounting I (ACCT201)
 author: Travis Hornbuckle
 description: "A comprehensive guide to Markdown syntax, covering everything from basic formatting to advanced features. Learn how to create headers, lists, emphasis, and more with this essential markup language for content creation."
 image:
-  url: "/images/posts/LHS0001.png"
+  url: "/images/posts/ACCT201.png"
   alt: "Accounting 201, . Instructed by Dr. K. Verostick in the Summer 2025 term at Salt Lake community college."
-pubDate: 2012-12-20
+pubDate: 2025-05-17
 tags:
   [
-    "Life Sciences", "Fall 2012", "General Education Requirements", "High School Diploma"
+    "Life Sciences", "Winter 2021", "Major Requirements", "Associate of Science"
   ]
-languages: ["Lecanto High School"]
+languages: ["Colorado Technical University"]
 ---
 ## 📝 Course Description 
 An introduction to biological anthropology, one of the subfields of anthropology, and includes surveys of hominid fossils, primate biology and behavior, human biological variation, ecology and adaptation, and evolutionary theory.
