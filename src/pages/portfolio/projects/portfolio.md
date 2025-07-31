@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'Travis James Portfolio'
-pubDate: 2025-04-05
+title: 'My Portfolio'
+pubDate: 2025-07-30
 description: 'Portfolio site for Travis James Hornbuckle'
 languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
 image:
