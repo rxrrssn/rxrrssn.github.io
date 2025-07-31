@@ -1,7 +1,7 @@
 ---
 import Button from "../ui/Button.astro";
 import Heading from "../ui/Heading.astro";
-import Tools from "../portfolio/Tools.astro";
+import Orgs from "../portfolio/Orgs.astro";
 import { Icon } from "astro-icon/components";
 import Hobbies from "../portfolio/Hobbies.astro";
 import { getCollection } from "astro:content";
@@ -80,9 +80,8 @@ const {
             >{profileTitle}</span
           > with <span
             class="bg-linear-to-r from-riptide-500 to-mint-500 bg-clip-text font-black text-transparent dark:from-riptide-300 dark:to-mint-200"
-            >8 years of experience</span
-          >, passionate about development, technology, and coffee that sparks
-          ideas. I love bringing digital projects to life. 🚀☕
+            >10 years of experience</span
+          > turning challenges into creative wins. Known for mixing hustle with humor and bringing real energy to every project. 👊💼🔥
         </p>
 
         <div class="flex gap-4 max-sm:flex-col max-sm:items-center">
@@ -108,7 +107,7 @@ const {
       class="col-start-2 row-start-2 flex flex-col gap-3 rounded-2xl border border-emerald-50 bg-linear-to-r from-riptide-200 to-mint-200 p-8 dark:border-zinc-800 dark:border-2 dark:bg-zinc-800 dark:bg-gradient-radial dark:from-riptide-500 dark:to-mint-500 max-md:gap-0 max-xl:p-5 max-md:p-4 max-lg:gap-1 md:col-start-4"
     >
       <div class="flex flex-col-reverse items-start gap-4 max-md:gap-2">
-        <Heading text="Beyond the Code" level={2} />
+        <Heading text="Beyond Work" level={2} />
       </div>
 
       <div class="overflow-y-auto">
@@ -158,10 +157,10 @@ const {
             name="dashboard"
             aria-hidden="true"
           />
-          <Heading text="Tech" textGradient="Stack" level={3} />
+          <Heading text="Affiliated" textGradient="Organizations" level={3} />
         </div>
         <div class="overflow-y-auto">
-          <Tools />
+          <Orgs />
         </div>
       </article>
     </div>
