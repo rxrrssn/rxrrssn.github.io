@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import preact from "@astrojs/preact";
 import sitemap from "@astrojs/sitemap"
 import icon from "astro-icon";
-
+//new commit
 // https://astro.build/config
 export default defineConfig({
   site: "https://rxrrssn.github.io",
