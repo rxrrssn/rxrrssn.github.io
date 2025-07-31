@@ -17,6 +17,18 @@ export const languages: Record<string, Language> = {
     name: "Bootstrap",
     iconName: "bootstrap",
   },
+  "Salt Lake Community College": {
+    name: "Salt Lake Community College",
+    iconName: "slcc",
+  },
+  "Colorado Technical University": {
+    name: "Colorado Technical University",
+    iconName: "ctu",
+  },
+  "Lecanto High School": {
+    name: "Lecanto High School",
+    iconName: "lhs",
+  },
   cloudflare: {
     name: "Cloudflare",
     iconName: "cloudflare",
