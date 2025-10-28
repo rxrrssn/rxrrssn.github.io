@@ -1,19 +1,20 @@
 ---
 import Layout from "./Layout.astro";
-import DatePub from "../components/blog/DatePub.astro";
-import Tag from "../components/ui/Tag.astro";
-import Capsule from "../components/ui/Capsule.astro";
+import DatePub from "../components/research/DatePub.astro";
+import Tag from "../components/researchui/Tag.astro";
+import Capsule from "../components/researchui/Capsule.astro";
 import NavArticle from "../components/layout/NavArticle.astro";
-import ListPosts from "../components/blog/ListPosts.astro";
-import NavigationArticles from "../components/layout/NavigationArticles.astro";
-import Share from "../components/ui/Share.astro";
+import ListPosts from "../components/research/ListPosts.astro";
+import NavigationArticles from "../components/layout/NavigationArticlesResearch.astro";
+import Share from "../components/researchui/Share.astro";
 const { frontmatter } = Astro.props;
 const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
+
 const tweetText = encodeURIComponent(
-  `"${frontmatter.title}" - by ${frontmatter.author} | EFEELE`
+  `"${frontmatter.title}" - by ${frontmatter.author} | TJH`
 );
-import Heading from "../components/ui/Heading.astro";
+import Heading from "../components/researchui/Heading.astro";
 ---
 
 <script>
@@ -94,7 +95,7 @@ import Heading from "../components/ui/Heading.astro";
         >
           <div class="white flex items-center gap-4">
             <div
-              aria-label="Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+              aria-label="Photo of Travis James Hornbuckle for the blog"
               class="size-10 bg-cover bg-center rounded-full drop-shadow-lg"
               style="background-image: url(/images/tjh-hs.webp);"
             >
@@ -102,7 +103,7 @@ import Heading from "../components/ui/Heading.astro";
             <a
               id={frontmatter.title}
               class="leading-0 text-sm font-semibold items-center gap-3 text-blacktext dark:text-riptide-50"
-              href="/blog"
+              href="/about-me"
               >{frontmatter.author}
             </a>
           </div>

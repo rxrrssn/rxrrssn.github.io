@@ -7,14 +7,16 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://rxrrssn.github.io",
+  site: "https://www.tjhorn.com",
   //base: "/rxrrssn.github.io",
   integrations: [preact(), icon(), sitemap({
     filter: (page) =>
       !page.includes("/blog/tags") &&
       !page.includes("/blog/techs")&&
       !page.includes("/courses/tags")&&
-      !page.includes("/courses/techs"),
+      !page.includes("/courses/techs")&&
+      !page.includes("/research/tags")&&
+      !page.includes("/research/techs"),
   }),],
 
   vite: {
